@@ -1,0 +1,15 @@
+$primary-color: orange;
+
+$second-color: dodgerblue;
+
+h1 {
+    color: $primary-color;
+}
+
+h2 {
+    color: $second-color
+}
+
+.lorem {
+    color: $primary-color;
+}
